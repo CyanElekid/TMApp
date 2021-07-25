@@ -1,0 +1,9 @@
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\bin\Debug\netcoreapp3.1\TestLibrary1.deps.json
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\bin\Debug\netcoreapp3.1\TestLibrary1.dll
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\bin\Debug\netcoreapp3.1\TestLibrary1.pdb
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\obj\Debug\netcoreapp3.1\TestLibrary1.csprojAssemblyReference.cache
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\obj\Debug\netcoreapp3.1\TestLibrary1.AssemblyInfoInputs.cache
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\obj\Debug\netcoreapp3.1\TestLibrary1.AssemblyInfo.cs
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\obj\Debug\netcoreapp3.1\TestLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\obj\Debug\netcoreapp3.1\TestLibrary1.dll
+C:\Users\Sindre\DotnetTestStuff\TestLibrary1s\TestLibrary1\obj\Debug\netcoreapp3.1\TestLibrary1.pdb

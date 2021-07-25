@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.90" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TestLibrary1\TestLibrary1.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="CreateTeamForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreateTournamentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CreatePrizeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TournamentDashboardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+	  <Compile Update="TournamentViewerForm.cs">
+		  <SubType>Form</SubType>
+	  </Compile>
+  </ItemGroup>
+
+
+</Project>
